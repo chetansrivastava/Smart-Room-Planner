@@ -1,0 +1,1 @@
+Day 1: Setup PyQt5 project with base window and menu bar (File --> New, Exit)
